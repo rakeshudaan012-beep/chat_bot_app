@@ -1,4 +1,4 @@
-import 'package:chat_bot/fetures/auth/presentation/pages/spalsh_page/splash_page.dart';
+import 'package:chat_bot/fetures/chat/presentation/pages/spalsh_page/splash_page.dart';
 import 'package:flutter/material.dart';
 
 void main(){
